@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Universe/static/css/main.d773e4db.chunk.css",
-    "main.js": "/React-Universe/static/js/main.0c3aba95.chunk.js",
-    "main.js.map": "/React-Universe/static/js/main.0c3aba95.chunk.js.map",
+    "main.css": "/React-Universe/static/css/main.b1074c71.chunk.css",
+    "main.js": "/React-Universe/static/js/main.81d77318.chunk.js",
+    "main.js.map": "/React-Universe/static/js/main.81d77318.chunk.js.map",
     "runtime-main.js": "/React-Universe/static/js/runtime-main.4c5cf95a.js",
     "runtime-main.js.map": "/React-Universe/static/js/runtime-main.4c5cf95a.js.map",
     "static/js/2.401732db.chunk.js": "/React-Universe/static/js/2.401732db.chunk.js",
     "static/js/2.401732db.chunk.js.map": "/React-Universe/static/js/2.401732db.chunk.js.map",
     "index.html": "/React-Universe/index.html",
-    "static/css/main.d773e4db.chunk.css.map": "/React-Universe/static/css/main.d773e4db.chunk.css.map",
+    "static/css/main.b1074c71.chunk.css.map": "/React-Universe/static/css/main.b1074c71.chunk.css.map",
     "static/js/2.401732db.chunk.js.LICENSE.txt": "/React-Universe/static/js/2.401732db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c5cf95a.js",
     "static/js/2.401732db.chunk.js",
-    "static/css/main.d773e4db.chunk.css",
-    "static/js/main.0c3aba95.chunk.js"
+    "static/css/main.b1074c71.chunk.css",
+    "static/js/main.81d77318.chunk.js"
   ]
 }
